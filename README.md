@@ -50,11 +50,11 @@ seaborn==0.10.1
 
 ├── inverse_design.ipynb       # Reverse optimization code and examples
 
-├── rFunction.py               # Model and related function code
+├── Function.py               # Model and related function code
 
 ├── z_i.csv                    # Latent space data
 
-└── README.txt
+└── README.md
 
 ### 4. Model trained parameter acquisition
 
