@@ -9,22 +9,31 @@ Author: Weijie Liao, Ruihao Yuan, et al.
 
 The source code was developed and tested under the following environment:
 
-* Operating System: Linux / Windows 10\\
+* Operating System: Linux / Windows 10
+
 * Python Version: 3.8.3
 
 ### 2. Required Python Packages
 
-The following packages are required:\\
+The following packages are required:
 
-numpy==1.22.4\\
-pandas==1.5.3\\
-scikit-learn==0.23.1\\
-matplotlib==3.7.5\\
-torch==1.13.1+cu116\\
-torchvision==0.14.1+cu116\\
-joblib==0.16.0\\
-opencv-python==4.5.5.64\\
-pymoo==0.6.1.1\\
+numpy==1.22.4
+
+pandas==1.5.3
+
+scikit-learn==0.23.1
+
+matplotlib==3.7.5
+
+torch==1.13.1+cu116
+
+torchvision==0.14.1+cu116
+
+joblib==0.16.0
+
+opencv-python==4.5.5.64
+
+pymoo==0.6.1.1 \n
 seaborn==0.10.1\\
 
 ### 3. Directory Structure
