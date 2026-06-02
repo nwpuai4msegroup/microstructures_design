@@ -1,7 +1,5 @@
 # microstructures_design
 
-Generative design of high-fidelity microstructures using physics-aware machine learning
-
 Title: Source Code for “Generative design of high-fidelity microstructures using physics-aware machine learning”
 
 Author: Weijie Liao, Ruihao Yuan, et al.
