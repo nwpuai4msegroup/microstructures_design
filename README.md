@@ -1,4 +1,5 @@
 # microstructures_design
+
 Generative design of high-fidelity microstructures using physics-aware machine learning
 
 Title: Source Code for “Generative design of high-fidelity microstructures using physics-aware machine learning”
@@ -33,18 +34,26 @@ joblib==0.16.0
 
 opencv-python==4.5.5.64
 
-pymoo==0.6.1.1 \n
-seaborn==0.10.1\\
+pymoo==0.6.1.1 
+
+seaborn==0.10.1
 
 ### 3. Directory Structure
 
-├── examples/                  # Input examples\\
-├── model_save/                # Trained models parameters\\
-├── dataset.csv/               # Original material performance data\\
-├── EBSD_generation.ipynb      # Image generation code and examples\\
-├── inverse_design.ipynb       # Reverse optimization code and examples\\
-├── rFunction.py               # Model and related function code\\
-├── z_i.csv                    # Latent space data\\
+├── examples/                  # Input examples
+
+├── model_save/                # Trained models parameters
+
+├── dataset.csv/               # Original material performance data
+
+├── EBSD_generation.ipynb      # Image generation code and examples
+
+├── inverse_design.ipynb       # Reverse optimization code and examples
+
+├── rFunction.py               # Model and related function code
+
+├── z_i.csv                    # Latent space data
+
 └── README.txt
 
 ### 4. Model trained parameter acquisition
