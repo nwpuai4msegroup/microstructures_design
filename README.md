@@ -54,7 +54,29 @@ seaborn==0.10.1
 
 └── README.md
 
-### 4. Model trained parameter acquisition
+### 4. Installation
+
+Create a Python environment and install the required packages:
+
+conda create -n microstructure_env python=3.8.3
+
+conda activate microstructure_env
+
+pip install -r requirements.txt
+
+### 5. Demo
+
+Running the Demo
+
+The demonstration is provided as a Jupyter Notebook:
+
+EBSD_generation.ipynb
+
+inverse_design.ipynb
+
+The notebook will automatically generate the outputs presented in the manuscript, including the predicted/optimized microstructures. All results are displayed directly within the notebook. The demo typically completes within several minutes on a standard desktop computer.
+
+### 6. Instructions for use
 
 The trained VAEs model used in this work are available on Google Drive:
 
@@ -62,7 +84,7 @@ https://drive.google.com/file/d/1jS_QCfnW4Kpxf5PUZlSts73PrkoqOAXO/view?usp=drive
 
 Place the downloaded files in the “model_save” folder.
 
-### 5. Contact
+### 7. Contact
 ﻿
 For questions regarding the code, please contact:
 ﻿
