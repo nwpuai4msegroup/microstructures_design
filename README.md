@@ -64,6 +64,8 @@ conda activate microstructure_env
 
 pip install -r requirements.txt
 
+The installation process typically takes several minutes, depending on the computing environment.
+
 ### 5. Demo
 
 Running the Demo
