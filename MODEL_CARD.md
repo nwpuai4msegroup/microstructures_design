@@ -190,7 +190,7 @@ The pretrained ResNet-18 backbone used for GND prediction is available through T
 
 ## License
 
-This model card does not itself grant a software, model-weight, or data license. Use and redistribution are governed by the license and terms included with the corresponding GitHub or Zenodo release. Third-party components and pretrained weights remain subject to their respective licenses and terms.
+This model card does not itself grant a software, model-weight, or data license. Use and redistribution are governed by the license and terms included with the corresponding GitHub or Zenodo release.
 
 ## Citation
 
